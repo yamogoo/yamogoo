@@ -35,6 +35,6 @@ __
 
 ## 🏆 Certifications
 - [Vue.js Senior Certificate](https://certificates.dev/vuejs/certificates/9cb90923-edce-4839-87bf-c4fb4b263f9f) – Official certification confirming advanced Vue.js skills
-- - [JSA – Certified Associate JavaScript Programmer](https://verify.openedg.org/?id=5SPY.Q07o.bXF0)  
+- [JSA – Certified Associate JavaScript Programmer](https://verify.openedg.org/?id=5SPY.Q07o.bXF0)  
   *Issued by OpenEDG on March 20, 2024*  
   This certification demonstrates proficiency in Object-Oriented Analysis, Design, and Programming (OOA/OOD/OOP), advanced use of JavaScript functions, including recursion, decorators, functional programming, generators, iterators, and asynchronous programming.
