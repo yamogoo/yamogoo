@@ -1,4 +1,4 @@
-👋 Hi, I'm Mikhail Grebennikov (aka yamogoo)
+👋 Hi, I'm Misha Grebennikov (aka yamogoo)
 
 - Frontend Developer | UI/UX Enthusiast
 - Creator of [Alma Icons](https://almaicons.netlify.app/), a customizable icon library
