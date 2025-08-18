@@ -30,7 +30,7 @@
 ## 🏆 Certifications
 - [Vue.js Senior Certificate](https://certificates.dev/vuejs/certificates/9cb90923-edce-4839-87bf-c4fb4b263f9f)
 
-  *Issued by certificates.dev on Augest, 2024*
+  *Issued by certificates.dev on August, 2024*
   - Official certification confirming advanced Vue.js skills
 - [JSA – Certified Associate JavaScript Programmer](https://verify.openedg.org/?id=5SPY.Q07o.bXF0)  
 
