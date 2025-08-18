@@ -6,8 +6,6 @@
 - Active on [StackBlitz](https://stackblitz.com/@yamogoo) and [Dribbble](https://dribbble.com/grebennikov)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/mikhail-grebennikow)
 
-__
-
 
 ## 💻 Technologies & Skills
 
