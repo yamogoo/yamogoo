@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Misha Grebennikov (aka yamogoo)
 
-**Frontend Engineer**  
+**Product Engineer**  
 Blending code, design, and motion to craft thoughtful interfaces.
 
 ---
