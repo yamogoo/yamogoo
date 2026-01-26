@@ -34,7 +34,6 @@ Blending code, design, and motion to craft thoughtful interfaces.
 - **Design Systems & Component Libraries** (architecture, token pipelines, theming)
 - **Advanced Vue 3 + TypeScript development**
 - **Interaction & Motion Design with GSAP**
-- **Human–Machine Interface (HMI) UX**
 
 ---
 
