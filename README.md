@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Misha Grebennikov (aka yamogoo)
 
-**Frontend Engineer**  
-Blending code, design, and motion to craft thoughtful interfaces.
-
 ---
 
 ### 🚀 Featured Projects
@@ -19,7 +16,6 @@ Blending code, design, and motion to craft thoughtful interfaces.
 
 <p>
   <img alt="Vue3" src="https://img.shields.io/badge/Vue3-42b883?style=for-the-badge&logo=vue.js&logoColor=white" height="28" />
-  <img alt="React" src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white" height="28" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" height="28" />
   <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88ce02?style=for-the-badge&logo=greensock&logoColor=white" height="28" />
   <img alt="SCSS" src="https://img.shields.io/badge/SCSS-cc6699?style=for-the-badge&logo=sass&logoColor=white" height="28" />
