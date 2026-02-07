@@ -4,9 +4,8 @@
 
 ### 🚀 Featured Projects
 
-- 🎨 **[Alma Design System](https://alma-design-system.netlify.app/)** — modular Vue 3 design system (playground)
-- 🧩 **[Alma Icons](https://almaicons.netlify.app/)** — a fully customizable SVG icon library with animated and multi-weight variants
 - 🪟 **[Resize Bounding](https://github.com/yamogoo/resize-bounding)** — Vue 3/React component for **intuitive resizing of nested content**
+- 🧩 **[Alma Icons](https://almaicons.netlify.app/)** — a fully customizable SVG icon library with animated and multi-weight variants
 - 🧠 Active on [StackBlitz](https://stackblitz.com/@yamogoo) & [Dribbble](https://dribbble.com/grebennikov)
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/mikhail-grebennikow)
 
