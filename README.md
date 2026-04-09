@@ -20,7 +20,7 @@
   <img alt="SCSS" src="https://img.shields.io/badge/SCSS-cc6699?style=for-the-badge&logo=sass&logoColor=white" height="28" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" height="28" />
   <img alt="UX/UI" src="https://img.shields.io/badge/UX%2FUI-ff69b4?style=for-the-badge&logo=codementor&logoColor=white" height="28" />
-  <img alt="Interaction Design" src="https://img.shields.io/badge/UX%2FUI-ff69b4?style=for-the-badge&logo=codementor&logoColor=white" height="28" />
+  <img alt="Interaction Design" src="https://img.shields.io/badge/Interaction Design-ff69b4?style=for-the-badge&logo=codementor&logoColor=white" height="28" />
 </p>
 
 ---
